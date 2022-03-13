@@ -1,0 +1,20 @@
+{
+    "name": "toh-under-construction",
+    "title": "The Tomb of Horrors (Under Construction)",
+    "description": "The Tomb of Horrors (Under Construction).",
+    "version": "1.0.0",
+    "author": "Pariah Zero",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        {
+            "name": "toh-uc-scenes",
+            "label": "Toh-Under-Construction",
+            "path": "./packs/scenes.db",
+            "entity": "Scene",
+            "type": "Scene"
+        }
+    ],
+    "manifest": "https://www.pariahzero.net/VTT/tomb-of-horrors-under-construction/module.json",
+    "download": "https://www.pariahzero.net/VTT/tomb-of-horrors-under-construction/tomb-of-horrors-under-construction.zip"
+  }
